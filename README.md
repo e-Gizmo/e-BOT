@@ -1,5 +1,17 @@
 # e-BOT
 Supporting Documents (Assembly Manual,Technical Manual, Sample codes,Libraries)
+###### Standard
+![Imgur](http://i.imgur.com/5PNW3IE.png) 
+###### Maze
+![Imgur](http://i.imgur.com/MSvPbq8.png)
+###### Sumo
+![Imgur](http://i.imgur.com/Hphf7GO.png)
+###### Soccer
+![Imgur](http://i.imgur.com/aFIuf2H.png)
+###### w/ Gripper
+![Imgur](http://i.imgur.com/e3IpJ1v.png)
+###### w/ EGRA
+![Imgur](http://i.imgur.com/U8e1rzE.png)
 
 ## Sample codes
  -----
